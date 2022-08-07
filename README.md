@@ -1,8 +1,10 @@
 ## Welcome to ISMIR 2022!!
 
-Production: https://gh-pages.d2v1pt6u509dae.amplifyapp.com
+These are the Revenge Initiators
 
-Development: http://ddmal.music.mcgill.ca/ISMIR-Conf/
+<!-- Production: https://gh-pages.d2v1pt6u509dae.amplifyapp.com
+
+Development: http://ddmal.music.mcgill.ca/ISMIR-Conf/ -->
 
 <!-- ## MiniConf
 
